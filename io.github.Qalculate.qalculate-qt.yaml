@@ -18,6 +18,7 @@ finish-args:
 cleanup:
   - /include
   - /lib/pkgconfig
+  - /share/doc
   - /share/man
   - '*.la'
 modules:
